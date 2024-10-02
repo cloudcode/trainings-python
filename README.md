@@ -1,2 +1,2 @@
 # trainings-python
-Did this in Python, just for kicks. 
+Did this in Python as well as VB, just for kicks. 
